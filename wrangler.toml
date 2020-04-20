@@ -1,0 +1,6 @@
+account_id = ""
+name = "cloudflare-internship-2020-fullstack"
+type = "webpack"
+route = ""
+workers_dev = true
+zone_id = ""
